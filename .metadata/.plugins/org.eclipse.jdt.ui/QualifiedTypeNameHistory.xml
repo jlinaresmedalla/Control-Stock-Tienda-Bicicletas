@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="com.items.AcercaDe"/>
+    <fullyQualifiedTypeName name="com.items.Modificar"/>
+    <fullyQualifiedTypeName name="javax.swing.table.TableModel"/>
+    <fullyQualifiedTypeName name="com.items.frmModificar"/>
+    <fullyQualifiedTypeName name="com.items.frmReporte"/>
+    <fullyQualifiedTypeName name="com.items.frmVentas"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="javax.swing.JTable"/>
+    <fullyQualifiedTypeName name="java.awt.event.WindowAdapter"/>
+    <fullyQualifiedTypeName name="java.awt.event.WindowEvent"/>
+    <fullyQualifiedTypeName name="java.net.URISyntaxException"/>
+    <fullyQualifiedTypeName name="java.net.URI"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyAdapter"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+    <fullyQualifiedTypeName name="com.items.frmParametros"/>
+    <fullyQualifiedTypeName name="com.items.frmConsultar"/>
+    <fullyQualifiedTypeName name="javax.swing.JFileChooser"/>
+    <fullyQualifiedTypeName name="javax.swing.filechooser.FileNameExtensionFilter"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.awt.Desktop"/>
+    <fullyQualifiedTypeName name="com.sistemaComercial.MenuPrincipal"/>
+</qualifiedTypeNameHistroy>
